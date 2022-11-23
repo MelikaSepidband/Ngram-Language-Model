@@ -11,7 +11,8 @@ tokens, n_tokens, which is number of tokens and n_unique_tokens, which is number
 
 handle_unknown : this function replace tokens that are not in frequencies_dict with "unk" .  
   
-  
+
+
 class NgramLanguageModel :  
 
 make_ngram_dicts : this function returns unigram_dict, which is a dictionary of tokens and their frequencies,
